@@ -1,0 +1,10 @@
+def getPrimes(maxnum):
+"""Finds all the primes smaller than maxnum"""
+import math
+primes =[2]
+
+[primes.append(i) for i in x range(3,int(math.sqrt(maxnum),2) if not 0 in [i%] for j in primes]
+return primes
+
+print getPrimes(3000)
+
